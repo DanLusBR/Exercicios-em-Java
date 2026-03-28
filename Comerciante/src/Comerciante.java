@@ -1,3 +1,6 @@
+// Comerciante
+// Fazer um programa para ler nome, preço de compra e preço de venda de N produtos, conforme exemplo. Depois, mostrar na tela a porcentagem de lucro de cada produto, e também quantos produtos tiveram lucro abaixo de 10%, entre 10% e 20% e acima de 20%. O valor de N deve ser digitado pelo usuário.
+
 import java.util.Locale;
 import java.util.Scanner;
 
